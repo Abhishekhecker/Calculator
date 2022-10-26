@@ -1,0 +1,4 @@
+First open vscode 
+then go to code 
+then run the code 
+use + - sign for basic calculations
